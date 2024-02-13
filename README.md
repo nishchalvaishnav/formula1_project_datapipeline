@@ -8,12 +8,7 @@
 ![formula1_ergast_db_data_model](https://github.com/nishchalvaishnav/formula1_project_datapipeline/assets/131749093/837c7090-554f-4f77-a4b2-7baf29336636)
 
 # Tools
-Python
-PySpark
-Azure Databricks
-Azure Data Factory (ADF)
-Azure Data Lake Storage Gen2 (ADLS)
-Delta Lake
+Python, PySpark, Azure Databricks, Azure Data Factory (ADF), Azure Data Lake Storage Gen2 (ADLS), Delta Lake, power bi
 
 # Architecture
 #### The solution used in this project is based on the "Modern analytics architecture with Azure Databricks" from the Azure Architecture Center:
